@@ -24,7 +24,6 @@ C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\bin\Debug\n
 C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\obj\Debug\netcoreapp3.0\AspireIdentitySvr.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\obj\Debug\netcoreapp3.0\AspireIdentitySvr.csproj.CopyComplete
 C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\obj\Debug\netcoreapp3.0\AspireIdentitySvr.dll
 C:\Users\Andrzej\source\repos\Aspire\Aspire\Aspire\AspireIdentitySvr\obj\Debug\netcoreapp3.0\AspireIdentitySvr.pdb
